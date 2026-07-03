@@ -1,0 +1,12 @@
+public class StringBasics {
+   public static void main(String[] args) {
+       // simple declaration
+/*  String x = "my name is shaurya";
+       System.out.println(x);
+       */
+       //input of a string
+       Scanner sc = new Scanner(System.in);
+       String s = sc.nextLine();
+       System.out.println(s);
+   }
+}
