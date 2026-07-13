@@ -19,4 +19,12 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
