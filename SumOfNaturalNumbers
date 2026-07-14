@@ -1,0 +1,10 @@
+public class SumOfNaturalNumbers {
+    public static int findsum(int n){
+        if(n==0) return 0;
+        return n+findsum(n-1);
+    }
+
+    static void main() {
+        System.out.println(findsum(4));
+    }
+}
