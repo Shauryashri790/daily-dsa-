@@ -41,4 +41,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Shauryashri790/daily-dsa-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
