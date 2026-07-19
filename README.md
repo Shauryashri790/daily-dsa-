@@ -8,6 +8,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shauryashri790/daily-dsa-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,6 +34,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shauryashri790/daily-dsa-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
