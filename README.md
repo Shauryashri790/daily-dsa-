@@ -66,6 +66,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Shauryashri790/daily-dsa-/tree/master/0038-count-and-say) |
 ## Backtracking
 |  |
 | ------- |
