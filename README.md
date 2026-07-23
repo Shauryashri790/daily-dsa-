@@ -14,6 +14,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -60,4 +61,12 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Shauryashri790/daily-dsa-/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
