@@ -30,6 +30,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Shauryashri790/daily-dsa-/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0941-valid-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -80,4 +81,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
