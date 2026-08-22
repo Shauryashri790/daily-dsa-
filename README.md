@@ -34,6 +34,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Shauryashri790/daily-dsa-/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0941-valid-mountain-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
@@ -84,9 +85,18 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
+## Greedy
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Counting
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
