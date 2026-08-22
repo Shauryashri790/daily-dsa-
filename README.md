@@ -10,6 +10,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shauryashri790/daily-dsa-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shauryashri790/daily-dsa-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
