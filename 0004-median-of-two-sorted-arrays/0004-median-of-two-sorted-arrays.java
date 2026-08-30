@@ -6,10 +6,12 @@ class Solution {
         int[] arr = new int[s];
         int k =0;
         for(int i=0;i<m;i++){
-            arr[k++] = nums1[i];
+            arr[k] = nums1[i];
+            k++;
         }
         for(int i=0;i<n;i++){
-            arr[k++] = nums2[i];
+            arr[k] = nums2[i];
+            k++;
         }
         Arrays.sort(arr);
         int total = s;
