@@ -29,6 +29,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shauryashri790/daily-dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -67,6 +68,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shauryashri790/daily-dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Shauryashri790/daily-dsa-/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -100,4 +102,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shauryashri790/daily-dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
