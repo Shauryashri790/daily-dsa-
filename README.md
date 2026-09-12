@@ -39,6 +39,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0941-valid-mountain-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,10 +59,12 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shauryashri790/daily-dsa-/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -95,6 +98,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
