@@ -80,6 +80,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shauryashri790/daily-dsa-/tree/master/0038-count-and-say) |
+| [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +90,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
+| [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
