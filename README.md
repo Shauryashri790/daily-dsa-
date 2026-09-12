@@ -31,6 +31,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shauryashri790/daily-dsa-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/Shauryashri790/daily-dsa-/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -83,6 +84,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Shauryashri790/daily-dsa-/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
