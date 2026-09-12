@@ -31,6 +31,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shauryashri790/daily-dsa-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Shauryashri790/daily-dsa-/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shauryashri790/daily-dsa-/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 ## Sorting
