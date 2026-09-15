@@ -31,6 +31,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shauryashri790/daily-dsa-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Shauryashri790/daily-dsa-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Shauryashri790/daily-dsa-/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
@@ -80,6 +81,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shauryashri790/daily-dsa-/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shauryashri790/daily-dsa-/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
@@ -120,4 +122,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shauryashri790/daily-dsa-/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shauryashri790/daily-dsa-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
