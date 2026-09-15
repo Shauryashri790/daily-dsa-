@@ -6,9 +6,9 @@ class Solution {
         for(int i=0;i<n-2;i++){
             for(int j=i+1;j<n-1;j++){
                 for(int k = j+1;k<n;k++){
-                    int cs = nums[i] + nums[j] + nums[k];
-                    if(Math.abs(cs-target)<Math.abs(max-target)){
-                        max = cs;
+                    int currentsum = nums[i] + nums[j] + nums[k];
+                    if(Math.abs(currentsum-target)<Math.abs(max-target)){
+                        max = currentsum;
                     }
                 }
             }
