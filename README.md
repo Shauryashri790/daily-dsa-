@@ -8,6 +8,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Shauryashri790/daily-dsa-/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shauryashri790/daily-dsa-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -126,4 +127,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shauryashri790/daily-dsa-/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shauryashri790/daily-dsa-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
