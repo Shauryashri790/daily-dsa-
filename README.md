@@ -36,6 +36,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0015-3sum](https://github.com/Shauryashri790/daily-dsa-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shauryashri790/daily-dsa-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Shauryashri790/daily-dsa-/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Shauryashri790/daily-dsa-/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shauryashri790/daily-dsa-/tree/master/0217-contains-duplicate) |
@@ -103,6 +104,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0015-3sum](https://github.com/Shauryashri790/daily-dsa-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shauryashri790/daily-dsa-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Shauryashri790/daily-dsa-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 ## Sorting
