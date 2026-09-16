@@ -92,6 +92,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0014-longest-common-prefix](https://github.com/Shauryashri790/daily-dsa-/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shauryashri790/daily-dsa-/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Shauryashri790/daily-dsa-/tree/master/0058-length-of-last-word) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 ## Backtracking
 |  |
