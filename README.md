@@ -6,6 +6,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Shauryashri790/daily-dsa-/tree/master/0836-rectangle-overlap) |
@@ -93,6 +94,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shauryashri790/daily-dsa-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Shauryashri790/daily-dsa-/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 ## Backtracking
 |  |
