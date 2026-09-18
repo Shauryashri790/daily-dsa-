@@ -90,6 +90,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shauryashri790/daily-dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shauryashri790/daily-dsa-/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Shauryashri790/daily-dsa-/tree/master/0038-count-and-say) |
@@ -122,6 +123,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shauryashri790/daily-dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Shauryashri790/daily-dsa-/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
@@ -150,4 +152,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shauryashri790/daily-dsa-/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shauryashri790/daily-dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
