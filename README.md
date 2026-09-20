@@ -101,6 +101,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0058-length-of-last-word](https://github.com/Shauryashri790/daily-dsa-/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -166,4 +167,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shauryashri790/daily-dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
