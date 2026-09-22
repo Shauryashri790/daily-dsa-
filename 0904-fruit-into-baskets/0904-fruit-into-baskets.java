@@ -1,22 +1,22 @@
 class Solution {
     public int totalFruit(int[] fruits) {
             int n = fruits.length;
-        int left = 0, maxLen = 0;
+        int lo = 0, maxLen = 0;
         Map<Integer, Integer> freq = new HashMap<>();
 
-        for (int right = 0; right < n; right++) {
-            freq.put(fruits[right], freq.getOrDefault(fruits[right], 0) + 1);
+        for (int hi = 0; hi < n; hi++) {
+            freq.put(fruits[hi], freq.getOrDefault(fruits[hi], 0) + 1);
 
             // shrink window if more than 2 fruit types
             while (freq.size() > 2) {
-                int leftFruit = fruits[left];
+                int leftFruit = fruits[lo];
                 freq.put(leftFruit, freq.get(leftFruit) - 1);
                 if (freq.get(leftFruit) == 0)
                     freq.remove(leftFruit);
-                left++;
+                lo++;
             }
 
-            maxLen = Math.max(maxLen, right - left + 1);
+            maxLen = Math.max(maxLen, hi - lo + 1);
         }
 
         return maxLen;
