@@ -50,6 +50,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Shauryashri790/daily-dsa-/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1207-unique-number-of-occurrences](https://github.com/Shauryashri790/daily-dsa-/tree/master/1207-unique-number-of-occurrences) |
@@ -139,6 +140,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Shauryashri790/daily-dsa-/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -171,6 +173,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shauryashri790/daily-dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shauryashri790/daily-dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
 ## Simulation
 |  |
 | ------- |
