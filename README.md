@@ -127,6 +127,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shauryashri790/daily-dsa-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Shauryashri790/daily-dsa-/tree/master/0141-linked-list-cycle) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 ## Sorting
 |  |
@@ -143,6 +144,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shauryashri790/daily-dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shauryashri790/daily-dsa-/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Shauryashri790/daily-dsa-/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Shauryashri790/daily-dsa-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shauryashri790/daily-dsa-/tree/master/0424-longest-repeating-character-replacement) |
@@ -191,4 +193,12 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/3498-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shauryashri790/daily-dsa-/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shauryashri790/daily-dsa-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
