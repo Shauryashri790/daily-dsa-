@@ -112,6 +112,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shauryashri790/daily-dsa-/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
+| [2390-removing-stars-from-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
@@ -194,6 +195,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -205,4 +207,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shauryashri790/daily-dsa-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
