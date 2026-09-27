@@ -1,17 +1,20 @@
 class Solution {
     public String removeStars(String s) {
-        Deque<Character> stack = new ArrayDeque<>();
-        for (char c : s.toCharArray()) {
+        List<Character> list = new ArrayList<>();
+        
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
             if (c == '*') {
-                stack.pop();    
+              list.remove(list.size() - 1);
             } else {
-                stack.push(c);
+                list.add(c);
             }
         }
-        StringBuilder sb = new StringBuilder();
-        while (!stack.isEmpty()) {
-            sb.append(stack.pop());
+         StringBuilder sb = new StringBuilder();
+        for (char c : list) {
+            sb.append(c);
         }
-        return sb.reverse().toString();
+        
+        return sb.toString();
     }
 }
