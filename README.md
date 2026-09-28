@@ -49,6 +49,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Shauryashri790/daily-dsa-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Shauryashri790/daily-dsa-/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
@@ -163,6 +164,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Shauryashri790/daily-dsa-/tree/master/0605-can-place-flowers) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting
