@@ -114,6 +114,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shauryashri790/daily-dsa-/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
@@ -213,5 +214,10 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/2390-removing-stars-from-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
