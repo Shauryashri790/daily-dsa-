@@ -108,6 +108,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shauryashri790/daily-dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shauryashri790/daily-dsa-/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Shauryashri790/daily-dsa-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Shauryashri790/daily-dsa-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Shauryashri790/daily-dsa-/tree/master/0076-minimum-window-substring) |
@@ -131,6 +132,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shauryashri790/daily-dsa-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shauryashri790/daily-dsa-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Shauryashri790/daily-dsa-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0142-linked-list-cycle-ii) |
@@ -226,4 +228,20 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
