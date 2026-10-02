@@ -47,6 +47,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0217-contains-duplicate](https://github.com/Shauryashri790/daily-dsa-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Shauryashri790/daily-dsa-/tree/master/0605-can-place-flowers) |
@@ -79,6 +80,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
@@ -100,6 +102,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shauryashri790/daily-dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shauryashri790/daily-dsa-/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Shauryashri790/daily-dsa-/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shauryashri790/daily-dsa-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
@@ -137,6 +140,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Shauryashri790/daily-dsa-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Shauryashri790/daily-dsa-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -221,6 +225,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shauryashri790/daily-dsa-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -246,4 +251,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
