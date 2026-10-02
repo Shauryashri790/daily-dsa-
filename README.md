@@ -115,6 +115,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shauryashri790/daily-dsa-/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shauryashri790/daily-dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/3498-reverse-degree-of-a-string) |
@@ -199,6 +200,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0219-contains-duplicate-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shauryashri790/daily-dsa-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shauryashri790/daily-dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shauryashri790/daily-dsa-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
