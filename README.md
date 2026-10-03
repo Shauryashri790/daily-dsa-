@@ -119,6 +119,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0076-minimum-window-substring](https://github.com/Shauryashri790/daily-dsa-/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shauryashri790/daily-dsa-/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shauryashri790/daily-dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
