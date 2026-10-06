@@ -26,6 +26,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0070-climbing-stairs](https://github.com/Shauryashri790/daily-dsa-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shauryashri790/daily-dsa-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Brainteaser
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shauryashri790/daily-dsa-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shauryashri790/daily-dsa-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shauryashri790/daily-dsa-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
