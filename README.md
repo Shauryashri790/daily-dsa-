@@ -6,6 +6,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shauryashri790/daily-dsa-/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
@@ -22,6 +23,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Shauryashri790/daily-dsa-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -98,6 +100,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shauryashri790/daily-dsa-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
