@@ -58,6 +58,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0605-can-place-flowers](https://github.com/Shauryashri790/daily-dsa-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Shauryashri790/daily-dsa-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Shauryashri790/daily-dsa-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -77,6 +78,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0209-minimum-size-subarray-sum](https://github.com/Shauryashri790/daily-dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Shauryashri790/daily-dsa-/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shauryashri790/daily-dsa-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Number Theory
 |  |
