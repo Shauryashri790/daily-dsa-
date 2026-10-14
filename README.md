@@ -62,6 +62,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Shauryashri790/daily-dsa-/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shauryashri790/daily-dsa-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -79,6 +80,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shauryashri790/daily-dsa-/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shauryashri790/daily-dsa-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Number Theory
 |  |
@@ -180,6 +182,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Shauryashri790/daily-dsa-/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shauryashri790/daily-dsa-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
