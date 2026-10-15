@@ -70,6 +70,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shauryashri790/daily-dsa-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2765-longest-alternating-subarray](https://github.com/Shauryashri790/daily-dsa-/tree/master/2765-longest-alternating-subarray) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shauryashri790/daily-dsa-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shauryashri790/daily-dsa-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -106,6 +107,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shauryashri790/daily-dsa-/tree/master/1291-sequential-digits) |
+| [2765-longest-alternating-subarray](https://github.com/Shauryashri790/daily-dsa-/tree/master/2765-longest-alternating-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
