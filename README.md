@@ -47,6 +47,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shauryashri790/daily-dsa-/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Shauryashri790/daily-dsa-/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Shauryashri790/daily-dsa-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shauryashri790/daily-dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shauryashri790/daily-dsa-/tree/master/0217-contains-duplicate) |
@@ -170,6 +171,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0015-3sum](https://github.com/Shauryashri790/daily-dsa-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shauryashri790/daily-dsa-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shauryashri790/daily-dsa-/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Shauryashri790/daily-dsa-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shauryashri790/daily-dsa-/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
@@ -289,4 +291,8 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shauryashri790/daily-dsa-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Shauryashri790/daily-dsa-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
