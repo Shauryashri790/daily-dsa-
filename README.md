@@ -142,6 +142,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0443-string-compression](https://github.com/Shauryashri790/daily-dsa-/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shauryashri790/daily-dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shauryashri790/daily-dsa-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shauryashri790/daily-dsa-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shauryashri790/daily-dsa-/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
@@ -231,6 +232,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0904-fruit-into-baskets](https://github.com/Shauryashri790/daily-dsa-/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shauryashri790/daily-dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shauryashri790/daily-dsa-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shauryashri790/daily-dsa-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Simulation
 |  |
 | ------- |
