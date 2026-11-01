@@ -10,6 +10,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0171-excel-sheet-column-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Shauryashri790/daily-dsa-/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shauryashri790/daily-dsa-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Shauryashri790/daily-dsa-/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
@@ -55,6 +56,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0238-product-of-array-except-self](https://github.com/Shauryashri790/daily-dsa-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shauryashri790/daily-dsa-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Shauryashri790/daily-dsa-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
