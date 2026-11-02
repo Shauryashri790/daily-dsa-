@@ -11,6 +11,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0231-power-of-two](https://github.com/Shauryashri790/daily-dsa-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Shauryashri790/daily-dsa-/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shauryashri790/daily-dsa-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Shauryashri790/daily-dsa-/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
@@ -57,6 +58,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0287-find-the-duplicate-number](https://github.com/Shauryashri790/daily-dsa-/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shauryashri790/daily-dsa-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shauryashri790/daily-dsa-/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Shauryashri790/daily-dsa-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
@@ -177,6 +179,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [0056-merge-intervals](https://github.com/Shauryashri790/daily-dsa-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shauryashri790/daily-dsa-/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shauryashri790/daily-dsa-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Shauryashri790/daily-dsa-/tree/master/0645-set-mismatch) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Shauryashri790/daily-dsa-/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Hash Table
