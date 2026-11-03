@@ -20,6 +20,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shauryashri790/daily-dsa-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shauryashri790/daily-dsa-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shauryashri790/daily-dsa-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shauryashri790/daily-dsa-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Shauryashri790/daily-dsa-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shauryashri790/daily-dsa-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shauryashri790/daily-dsa-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shauryashri790/daily-dsa-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shauryashri790/daily-dsa-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shauryashri790/daily-dsa-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
