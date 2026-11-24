@@ -17,6 +17,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [1025-divisor-game](https://github.com/Shauryashri790/daily-dsa-/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shauryashri790/daily-dsa-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shauryashri790/daily-dsa-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shauryashri790/daily-dsa-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shauryashri790/daily-dsa-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shauryashri790/daily-dsa-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -79,6 +80,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2765-longest-alternating-subarray](https://github.com/Shauryashri790/daily-dsa-/tree/master/2765-longest-alternating-subarray) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shauryashri790/daily-dsa-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shauryashri790/daily-dsa-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shauryashri790/daily-dsa-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shauryashri790/daily-dsa-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -96,6 +98,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shauryashri790/daily-dsa-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shauryashri790/daily-dsa-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shauryashri790/daily-dsa-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -119,6 +122,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | ------- |
 | [1291-sequential-digits](https://github.com/Shauryashri790/daily-dsa-/tree/master/1291-sequential-digits) |
 | [2765-longest-alternating-subarray](https://github.com/Shauryashri790/daily-dsa-/tree/master/2765-longest-alternating-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shauryashri790/daily-dsa-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shauryashri790/daily-dsa-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -244,6 +248,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shauryashri790/daily-dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shauryashri790/daily-dsa-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shauryashri790/daily-dsa-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shauryashri790/daily-dsa-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
